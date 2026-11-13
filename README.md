@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Dani
 
-<!--
-**danialndm/danialndm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress developer, agency founder, and a guy who thinks every website can be better.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building websites and web apps at **Web Design Shop**
+- - Turning ideas into clean, functional designs
+  - - Always learning, always shipping
+   
+    - ## Currently
+   
+    - - Working with WordPress, React, and whatever gets the job done
+      - - Based in Lahore, Pakistan
+       
+        - ## Connect
+       
+        - - [Website](https://dannad.me)
+          - - [LinkedIn](https://linkedin.com/in/syeddanialnadeem)
+           
+            - ---
+
+            *This README is a work in progress. Check back later.*
